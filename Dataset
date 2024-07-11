@@ -1,0 +1,10 @@
+The model is built using multiclass weather image dataset, which consists of 
+6,877 images having 11 distinct categories of dew , frost , hail, rain, rime , 
+snow , fog smog, glaze, lightning, rainbow, sandstorm. The dataset subset of 
+Weather Phenomenon database (WEAPD) , published in the Harvard 
+Dataverse by Xiao and Haixia. The data is collected from geographical ranges 
+throughout the Europe and United States.
+
+
+DATASET LINK :  https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DV 
+N/M8JQCR
